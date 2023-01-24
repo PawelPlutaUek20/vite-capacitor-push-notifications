@@ -1,6 +1,12 @@
 # Vite Capacitor Push notifications
 
-All that is required is your Firebase project's google-services.json file added to the module (app-level) directory of your app.
+All that is required is your Firebase project's google-services.json file added to the module (app-level) directory of your android app.
+
+```
+android/
+├─ app/
+│  ├─ google-services.json/
+```
 
 ## Available Scripts
 
