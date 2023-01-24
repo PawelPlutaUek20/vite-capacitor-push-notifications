@@ -5,7 +5,7 @@ All that is required is your Firebase project's google-services.json file added 
 ```
 android/
 ├─ app/
-│  ├─ google-services.json/
+│  ├─ google-services.json
 ```
 
 ## Available Scripts
